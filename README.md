@@ -110,7 +110,7 @@ AutoAgent QA tests a set of APIs for a telecom provider every 5 minutes. If any 
 
 **Kunal Jadhav**  
 📧 kunaljadhav060704@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
+🔗 [LinkedIn](https://linkedin.com/in/kunaljadhav007)  
 🐙 [GitHub](https://github.com/kunaljadhav-07)
 
 ---
